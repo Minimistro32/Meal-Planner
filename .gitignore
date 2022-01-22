@@ -14,3 +14,4 @@ Cargo.lock
 *.pdb
 
 .DS_Store
+.vscode/ltex.hiddenFalsePositives.en-US.txt
