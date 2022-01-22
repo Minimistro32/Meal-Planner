@@ -5,9 +5,7 @@ This project enabled me to learn and utilize Rust features. Custom meal data mad
 
 My existing technological repertoire ranges from Python to Swift to MS-SQL. I've already had some exposure to C++ but could feel I was lacking in the high performance code department. That is why this project exists, as an introduction to an enjoyable high performance language.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+[Software Demo Video](https://youtu.be/rqOWWPVbmno)
 
 # Development Environment
 ## Tools
