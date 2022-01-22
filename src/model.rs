@@ -6,6 +6,7 @@ pub struct Meal {
     eaten: bool
 }
 
+//getters for the Meal struct
 impl Meal {
     pub fn get_name(&self) -> String {
         return self.name.clone();
@@ -27,10 +28,12 @@ impl Meal {
         return self.eaten.clone();
     }
 
+    //setter for eaten bool
     pub fn mark_eaten(&mut self) {
         self.eaten = true;
     }
 
+    //clone function for use with the calendar
     pub fn clone(&self) -> Meal {
         return Meal {
             name: self.name.clone(),
